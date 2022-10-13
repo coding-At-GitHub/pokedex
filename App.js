@@ -1,10 +1,10 @@
 import React from 'react';
-import Pokemon from './Component/Pokemon';
-import './Component/Style.css'
+import ComponentPokemon from './ComponentPokemon';
+import './Style.css'
 function App() {
   return (
     <>
-      <Pokemon />
+      <ComponentPokemon />
       hi
     </>
   );
